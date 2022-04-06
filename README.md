@@ -16,6 +16,8 @@ Applied Epidemiology and Mapping Project - MIT Media Lab
 - Link 1: [Applied Epidemiology and Mapping Project](https://www.canva.com/design/DAEuFYYwMLk/orxuH9ZCetqylZccvFQcUg/view?utm_content=DAEuFYYwMLk&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent) 
 - Description: The linked presentation contains reflections and summaries of my role as an undergraduate researcher with the MIT Media Lab. Includes detail on work regarding geospatial analysis completed to inform the decision-making process behind the strategic implementation of mobile health clinics.
 
+- Link 2: [Research Paper regarding Strategic Implementation of Mobile Health Clinics](https://github.com/laragarciap/geospatial-analysis-mit/blob/11a5bad0ef749fda6695f3b79f07c3af218187aa/ARCH%20Final%20Draft-%20Strategic%20Implementation%20of%20Mobile%20Health%20Clinics.pdf)
+- Description: The linked document consists of an extensive research paper studying the strategic implementation of mobile health clinics to procure the prevention of drastic medical measures, such as amputations of diabetic individuals, by providing greater accessibility to healthcare. Details include development of framework proposal using GIS-based multi-criteria decision analysis (MCDA), and suggestions of using technologies such as satellite imagery to determine logistics behind stationing of mobile health clinics (MHC's)
 
 
 ## Study Projects 
