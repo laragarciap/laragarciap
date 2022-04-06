@@ -1,7 +1,7 @@
 ## About Me
 Hi there! My name is Lara Garcia, and I am a Computer Engineering undergraduate major with a concentration in Data System Software and Artificial Intelligence & Big Data.
 My main experience lies in combining human-centered design and technology to create compelling stories through numbers and visuals, through data analytics, data automation, and data visualization.
-my purpose.
+
 
 
 This is a repository containing my work regarding the use of geospatial analysis using Esri platforms (ArcGIS, QGIS), data analytics using data visualization tools (Tableau), and application of machine learning algorithms.
